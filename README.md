@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique
-- 👀 I’m interested in general relativity, cosmology and particle physics
-- 🌱 I’m currently learning more physics and data science
+- 👀 I’m interested in general relativity, cosmology and gravitational waves
+- 🌱 I’m currently doing a master's degree
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: hylt27@gmail.com
 
